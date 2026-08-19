@@ -8,9 +8,12 @@ __pycache__/
 .venv/
 venv/
 
-# Node (optional TypeScript build)
+# TypeScript (optional dev tooling — day-to-day uses server.py)
 node_modules/
 dist/
+src/
+package.json
+tsconfig.json
 
 # OS / editor
 .DS_Store
